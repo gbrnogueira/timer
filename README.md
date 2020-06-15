@@ -10,7 +10,7 @@ Um cronômetro desenvolvido para web, ainda com alguns bugs que ao decorrer da m
 
 ---
 
-⚠️ BUGS
+## ⚠️ BUGS
 - Ao clicar mais de uma vez em iniciar a contagem sofre interferência.
 
 ---
