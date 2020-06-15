@@ -6,7 +6,12 @@
 ---
 
 ## ✉️ Sobre
-Um cronômetro desenvolvido para web, ainda com algum bugs que ao decorrer da minha evolução na linguagem serão corrigidos, porém serão corrigidos com o meu avanço na linguagem JavaScript
+Um cronômetro desenvolvido para web, ainda com alguns bugs que ao decorrer da minha evolução na linguagem serão corrigidos, porém serão corrigidos com o meu avanço na linguagem JavaScript
+
+---
+
+⚠️ BUGS
+- Ao clicar mais de uma vez em iniciar a contagem sofre interferência.
 
 ---
 
